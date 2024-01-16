@@ -1,5 +1,10 @@
 # Parallax Gallery Project
 
+![Gallery](https://img.shields.io/badge/Gallery-Parallax-brightgreen)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Working on](https://img.shields.io/badge/Working_on-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/parallax-gallery/)
+
 Explore the Parallax Gallery, a visually engaging website that showcases art images corresponding to elements in the list upon hovering. Immerse yourself in this interactive and captivating gallery experience.
 
 ## Table of Contents
